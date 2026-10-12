@@ -1,0 +1,13 @@
+# Path budget: this file <= 1 KiB. See artifacts/submission-budget.md.
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/.vite-temp/
+**/coverage/
+**/playwright-report/
+**/test-results/
+**/.playwright-mcp/
+**/*.tsbuildinfo
+/test/scratch/
+# dist/ is a required deliverable and is intentionally included.
